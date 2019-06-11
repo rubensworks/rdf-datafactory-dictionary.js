@@ -1,5 +1,7 @@
 # RDF DataFactory Dictionary
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rubensworks/rdf-datafactory-dictionary.js.svg)](https://greenkeeper.io/)
+
 An RDFJS datafactory that is based on dictionary encoding with Symbols. 
 
 
