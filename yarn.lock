@@ -16,9 +16,15 @@
   dependencies:
     "@types/rdf-js" "*"
 
-"@types/rdf-js@*", "@types/rdf-js@^1.0.1":
+"@types/rdf-js@*":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@types/rdf-js/-/rdf-js-1.0.1.tgz#312e8478b608c3e2f66d3a2cae0c96c052c495a6"
+  dependencies:
+    "@types/node" "*"
+
+"@types/rdf-js@^2.0.0":
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/@types/rdf-js/-/rdf-js-2.0.11.tgz#b9e398504ceb9f00eaa3b3036b643dc3490cf362"
   dependencies:
     "@types/node" "*"
 
